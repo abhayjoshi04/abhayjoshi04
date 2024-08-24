@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on a full stack project project and my communication skills<br>🌱 I’m currently learning Next.js, Docker<br>💬 Ask me about Express.js, Data Structures<br>⚡ Fun fact - I'm a passionate reader of fictional novels.
+
+**Heyy, Welcome to my GitHub profile!** I'm an engineering student from India with a great passion for new technologies. I love learning new technologies, concepts and working on various projects. Dive in to have a glimpse of my skills and projects.
+
+
+🔭  I’m currently learning Next.js, Docker<br>
+💬 Ask me about Express.js, Data Structures<br>
+🌐 Reach me: abhayjoshi.avj@gmail.com<br>⚡ Fun fact - I'm a passionate reader of fictional novels.
 
 
 ## 🌐 Socials:
